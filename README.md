@@ -1,8 +1,34 @@
-# React + Vite
+# Stopwatch Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple stopwatch application built using React.js and Vite. The application allows you to start, stop, and reset a stopwatch timer. The code is written in JavaScript and styled with CSS.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Start the stopwatch
+- Stop the stopwatch
+- Reset the stopwatch
+- Display the elapsed time
+
+## Demo
+
+You can check out the live demo [here](https://example.com) (Replace with your actual link).
+
+## Installation
+
+To get started with the project, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/stopwatch.git
+   cd stopwatch
